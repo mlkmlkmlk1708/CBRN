@@ -1,0 +1,18 @@
+#include <iostream>
+using namespace std;
+ 
+int main () {
+string Neck;
+
+cout << "Is your Neck exposed to CBRN? (yes/no)"<< endl;
+cin >> Neck;
+
+if (Neck = "ExposedToCBRN","yes","yea","y","ye") {
+  cout << "I like your cut G";
+} 
+
+else{
+cout << "Gas Mask go brrrrr" << endl;
+}
+return 0;
+}
